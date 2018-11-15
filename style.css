@@ -1,0 +1,45 @@
+body {
+  background-image: url(https://hdbackgroundspot.com//storage/upload/abstract-white-background/abstract-white-background-3.png);
+}
+
+.headline h1 {
+  color: white;
+  text-align: center;
+  border-style: solid;
+  margin: auto 500px;
+  border-color: blue;
+  border-width: 5px;
+  border-radius: 15px;
+  background-color: blue;
+
+}
+
+ .list {
+   text-align: center;
+   list-style-position: inside;
+   margin-right: 30px;
+ }
+
+ .Best-Friends {
+    list-style-position: inside;
+    margin-right: auto;
+    text-align: center;
+    margin: 50px;
+ }
+
+ h2 {
+   text-align: center;
+   border-bottom-style: solid;
+   margin: 50px;
+ }
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+p {
+  text-align: center;
+}
